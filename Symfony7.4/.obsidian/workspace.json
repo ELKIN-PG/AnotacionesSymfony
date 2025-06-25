@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "10ea1b28e4a87bab",
+    "type": "split",
+    "children": [
+      {
+        "id": "f714925794bf9f11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4acd2c5e234f45be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SymfonyProyecto/3SymfonyInstalacionMakeBundle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3SymfonyInstalacionMakeBundle"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97caa1adb8c7af96",
+    "type": "split",
+    "children": [
+      {
+        "id": "310d928108aa2c31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e878ea9312a16feb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "36e6b2cb23080a54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4f9f1a43e78ea4aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1b256864dc01cc6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "efc69ccdc0f18ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92bc6d55380b459d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SymfonyComposerInstall.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SymfonyComposerInstall"
+            }
+          },
+          {
+            "id": "0a225c4715bfc20c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SymfonyComposerInstall.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SymfonyComposerInstall"
+            }
+          },
+          {
+            "id": "41a83c3fdf87d321",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "68cf3200b7dc1c15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SymfonyComposerInstall.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SymfonyComposerInstall"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4acd2c5e234f45be",
+  "lastOpenFiles": [
+    "SymfonyProyecto/4SymfonyPaginaBasica.md",
+    "SymfonyProyecto/3SymfonyInstalacionMakeBundle.md",
+    "SymfonyProyecto/2SymfonyEstructuraProyecto.md",
+    "SymfonyProyecto/1SymfonyConfiguracionInicial.md",
+    "SymfonyProyecto/11SymfonyDespliegue.md",
+    "SymfonyProyecto/10SymfonyTest.md",
+    "SymfonyProyecto/9SymfonySeguridad.md",
+    "SymfonyProyecto/8SymfonyFormularios.md",
+    "SymfonyProyecto/7SymfonyAutenticacionBasica.md",
+    "SymfonyProyecto/6SymfonyBaseDatosORM.md",
+    "SymfonyProyecto/5SymfonyRutasEndpoints.md",
+    "SymfonyProyecto/SymfonyTest.md",
+    "SymfonyProyecto/SymfonyMakeBundle.md",
+    "SymfonyProyecto/SymfonyRutaEndPoints.md",
+    "SymfonyProyecto/SymfonyDespliegue.md",
+    "SymfonyProyecto/SymfonyFormularios.md",
+    "SymfonyProyecto/Untitled.canvas",
+    "SymfonyBase.md",
+    "SymfonyProyecto",
+    "Symfony7.4/SymfonyLTS.md",
+    "Pensamientos.md",
+    "SymfonyComponentes/SymfonyArticulosLeidos.md",
+    "SymfonyComponentes/SymfonyErrors.md",
+    "SymfonyConceptos/SymfonyComposerInstall.md",
+    "SymfonyConceptos/SymfonyAnotaciones.md",
+    "SymfonyConceptos",
+    "SymfonyConceptos/SymfonyComposer.md",
+    "SymfonyConceptos/SymfonyDoctrine.md",
+    "SymfonyConceptos/SymfonyResumeVideos.md",
+    "SymfonyImages",
+    "SymfonyImages/Pasted image 20250616215602.png",
+    "SymfonyComponentes",
+    "SymfonyImages/Pasted image 20250616225005.png",
+    "SymfonyImages/Pasted image 20250616223429.png",
+    "SymfonyImages/Pasted image 20250616223020.png",
+    "Symfony7.4"
+  ]
+}
